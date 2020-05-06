@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0eb095</color>
+    <color name="colorPrimaryDark">#03DAC5</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="fadedGreen">#6603DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#aeaeae</color>
+    <color name="blue">#4ea0e7</color>
+    <color name="blueLight">#14b8ff</color>
+    <color name="confirmed">#0eb095</color>
+    <color name="pending">#e68619</color>
+    <color name="rejected">#ff3030</color>
+    <color name="changed">#bcad1e</color>
+</resources>

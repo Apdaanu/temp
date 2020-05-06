@@ -1,0 +1,171 @@
+<resources>
+    <string name="cc_address_">पता</string>
+    <string name="cc_phone">फ़ोन नंबर</string>
+    <string name="cc_center_id">सेण्टर ID</string>
+    <string name="cc_title">निकटतम संग्रह केंद्र</string>
+    <string name="pay_settings">सेटिंग्स </string>
+    <string name="pd_save">सेव डिटेल्स</string>
+    <string name="pd_ifsc">IFSC कोड</string>
+    <string name="pd_acc_hol_name">खाताधारक का नाम</string>
+    <string name="pd_acc_no">खाता नंबर</string>
+    <string name="pd_bank_details">बैंक जानकारी</string>
+    <string name="pd_verify">वेरीफाई</string>
+    <string name="pd_title">पेमेंट डिटेल्स</string>
+    <string name="empty_cart">आपकी कार्ट खाली है</string>
+    <string name="app_name">FreshHut</string>
+    <string name="Rs">\u20B9</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_slot">बुक स्लॉट</string>
+    <string name="manual">अपने आप</string>
+    <string name="cc_address">सीसी पता</string>
+    <string name="date">तारीख</string>
+    <string name="free_home_pickup">फ्री होम पिकअप</string>
+    <string name="address">पता</string>
+    <string name="add_new_address">नया पता जोड़ें</string>
+    <string name="place_request">बुक करे</string>
+    <string name="cart">कार्ट</string>
+    <string name="cart_minimum_message">न्यूनतम सीमा</string>
+    <string name="cart_maximum_message">अधिकतम सीमा </string>
+    <string name="coupon_available">कूपन उपलब्ध</string>
+    <string name="applied">अप्लाई</string>
+    <string name="coupon">कूपन</string>
+    <string name="tax_and_charges">कर और शुल्क</string>
+    <string name="transportaion_and_labour">परिवहन और श्रम</string>
+    <string name="total">टोटल</string>
+    <string name="book_slot_button">बुक स्लॉट</string>
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="mobile_number_hint">मोबाइल नंबर</string>
+    <string name="login_or_register">लॉगिन या रजिस्टर</string>
+    <string name="locating">लोकेटिंग...</string>
+    <string name="profile_name_hint">नाम</string>
+    <string name="profile_kyc_hint">XXXXXXXX (ऐच्छिक)</string>
+    <string name="profile_alternate_mobile_no">वैकल्पिक मोबाइल नं</string>
+    <string name="profile_address_hint">पता</string>
+    <string name="profile_address">पता</string>
+    <string name="profile_name">नाम</string>
+    <string name="profile_kyc">केवाईसी</string>
+    <string name="profile_verified">वेरिफ़िएड</string>
+    <string name="profile_mr">श्री</string>
+    <string name="profile_contact">कांटेक्ट</string>
+    <string name="profile_save_changes">सेव चंगेस</string>
+    <string name="profile_saving">सेविंग...</string>
+    <string name="requests">रिक्वेस्ट्स</string>
+    <string name="request">रिक्वेस्ट</string>
+    <string name="request_no_requests">नो रिक्वेस्ट्स</string>
+    <string name="request_sell_request">सेल्ल रिक्वेस्ट्स</string>
+    <string name="request_slot">स्लॉट :</string>
+    <string name="request_item">आइटम</string>
+    <string name="request_quantity">मात्रा</string>
+    <string name="request_price">कीमत</string>
+    <string name="request_cancel_title">कैंसिल रिक्वेस्ट</string>
+    <string name="request_cancel_message">क्या आप वाकई रिक्वेस्ट को रद्द करना चाहते हैं?</string>
+    <string name="request_cancel_positive">हाँ</string>
+    <string name="request_cancel_negative">नहीं</string>
+    <string name="request_call_executive">अधिक जानकारी के लिए आप हमारी कार्यकारिणी को कॉल कर सकते हैं</string>
+    <string name="request_cancel_request">रद्द करें</string>
+    <string name="request_cancelled">रद्द</string>
+    <string name="request_cancelling">रद्द कर रहे है...</string>
+    <string name="search_query_hint">खोजें</string>
+    <string name="search_toolbar_title">FreshHut</string>
+    <string name="select_crops">फसलों का चयन</string>
+    <string name="select_crops_next">आगे</string>
+    <string name="sell_query_hint">खोजें</string>
+    <string name="sell_fruits">फल बेचे</string>
+    <string name="sell_vegetables">सब्जियां बेचे</string>
+    <string name="splash_title">FRESH HUT</string>
+    <string name="otp_resend">दोबारा औटीपि भेजें</string>
+    <string name="otp_verify">वेरीफाई</string>
+    <string name="otp_title_part_1">FRESH</string>
+    <string name="otp_title_part_2">HUT</string>
+    <string name="address_sheet_location_empty">आपका स्थान अनुपलब्ध है</string>
+    <string name="address_sheet_current_location">वर्तमान स्थान</string>
+    <string name="address_sheet_address_line_1_hint">पता पंक्ति 1</string>
+    <string name="address_sheet_address_line_2_hint">पता पंक्ति 2</string>
+    <string name="address_sheet_landmark_hint">सीमा चिन्ह</string>
+    <string name="address_sheet_city_hint">शहर</string>
+    <string name="address_sheet_state_hint">राज्य</string>
+    <string name="address_sheet_pincode_hint">पिन कोड</string>
+    <string name="address_sheet_confirm_location">स्थान की पुष्टि करें</string>
+    <string name="change_quantity_sheet_update">अपडेट करें</string>
+    <string name="change_quantity_remove">रिमूव करें</string>
+    <string name="change_quantity_quantity_hint">मात्रा</string>
+    <string name="main_location_empty">आपका स्थान अनुपलब्ध है</string>
+    <string name="main_current_location">वर्तमान स्थान</string>
+    <string name="main_max_limit_reached">अधिकतम सीमा</string>
+    <string name="main_query_hint">खोजें</string>
+    <string name="main_vegetables_off">सब्जियां\n 50% EXTRA</string>
+    <string name="main_fruits_off">फल\n 35% EXTRA</string>
+    <string name="main_crops_off">फसलें\n 35% EXTRA</string>
+    <string name="main_sell_fruits">फल बेचे</string>
+    <string name="main_sell_vegetables">सब्जियां बेचे</string>
+    <string name="main_sell_crops">फसलें बेचे</string>
+    <string name="main_suggested_for_you">आपके लिए सुझाव</string>
+    <string name="payment_no_payment">नो पेमेंट्स</string>
+    <string name="register_address">पता</string>
+    <string name="register_address_line_1_hint">पता पंक्ति 1</string>
+    <string name="register_address_line_2_hint">पता पंक्ति 2</string>
+    <string name="register_landmark_hint">सीमा चिन्ह (ऐच्छिक)</string>
+    <string name="register_pincode_hint">पिन कोड</string>
+    <string name="register_your_location">आपका स्थान</string>
+    <string name="register_next">आगे</string>
+    <string name="register_details">विवरण</string>
+    <string name="register_name_hint">नाम</string>
+    <string name="register_alternate_mob_hint">वैकल्पिक मोबाइल नं(ऐच्छिक)</string>
+    <string name="register_skip">छोड़ें</string>
+    <string name="register_profile_photo">प्रोफाइल फोटो</string>
+    <string name="request_list_date">रिक्वेस्ट  डेट</string>
+    <string name="request_list_sell_status">सेल्ल स्टेटस</string>
+    <string name="request_list_request_id">रिक्वेस्ट आईडी</string>
+    <string name="request_list_collection">कलेक्शन</string>
+    <string name="request_list_slot">स्लॉट</string>
+    <string name="add_to_cart">कार्ट में डालें</string>
+    <string name="no_gps_message">कृपया लोकेशन को चालू करें।</string>
+    <string name="menu_home">होम</string>
+    <string name="menu_requests">रिक्वेस्ट्स</string>
+    <string name="menu_payments">पेमेंट्स</string>
+    <string name="menu_about">अबाउट</string>
+    <string name="menu_change_langauge">भाषा बदलें</string>
+    <string name="menu_logout">लॉग आउट</string>
+    <string name="payments">पेमेंट्स</string>
+    <string-array name="slot_names">
+        <item>स्लॉट 1</item>
+        <item>स्लॉट 2</item>
+        <item>स्लॉट 3</item>
+        <item>स्लॉट 4</item>
+        <item>स्लॉट 5</item>
+        <item>स्लॉट 6</item>
+    </string-array>
+    <string-array name="slot_times">
+        <item>6am - 9am</item>
+        <item>9am - 12pm</item>
+        <item>12pm - 3pm</item>
+        <item>3pm - 6pm</item>
+        <item>6pm - 9pm</item>
+        <item>9pm - 12am</item>
+    </string-array>
+    <string-array name="india_states">
+        <item>राज्य</item>
+        <item>दिल्ली</item>
+        <item>यूपी</item>
+        <item>हरियाणा</item>
+        <item>कर्नाटक</item>
+        <item>महाराष्ट्र</item>
+        <item>तेलंगाना</item>
+    </string-array>
+    <string-array name="indian_cities">
+        <item>शहर</item>
+        <item>दिल्ली</item>
+        <item>मुंबई</item>
+        <item>पुणे</item>
+        <item>चेन्नई</item>
+        <item>कोलकाता</item>
+        <item>बेंगलुरु</item>
+        <item>हैदराबाद</item>
+        <item>गुरुग्राम</item>
+        <item>नोएडा</item>
+        <item>गाजियाबाद</item>
+        <item>फरीदाबाद</item>
+    </string-array>
+</resources>
